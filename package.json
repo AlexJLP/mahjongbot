@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.5.1",
+    "discord.js": "^11.6.4",
     "reaction-core": "^2.2.0",
     "request": "^2.88.0",
     "sequelize": "^6.21.2",
