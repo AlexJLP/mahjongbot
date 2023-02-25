@@ -11,8 +11,8 @@
   "dependencies": {
     "discord.js": "^11.5.1",
     "reaction-core": "^2.2.0",
-    "request": "^2.88.2",
-    "sequelize": "^6.21.2",
+    "request": "^2.88.0",
+    "sequelize": "^6.28.0",
     "sqlite3": "^5.0.3"
   }
 }
